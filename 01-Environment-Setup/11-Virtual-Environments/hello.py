@@ -1,0 +1,1 @@
+print("Hello from an isolated Python environment!")
